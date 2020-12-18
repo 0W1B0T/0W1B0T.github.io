@@ -1,8 +1,0 @@
----
-layout: post
-title: "Why I deleted social media"
-date: 2020-12-17
-categories: jekyll update
----
-
-Testing this to see if it works. 
