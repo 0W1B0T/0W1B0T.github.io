@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-<img src="https://github.com/0W1B0T/0W1B0T.github.io/master/images/image.png" alt="For Science" width="250"/>
+<img src="https://github.com/0W1B0T/0W1B0T.github.io/blob/master/images/image.png" alt="For Science" width="250"/>
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
